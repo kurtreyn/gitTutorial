@@ -92,3 +92,17 @@
   Push up your branch to GitHub for review
 
 - Pull request (on GitHub) to merge new branch with main branch
+
+## Example of branch structure
+
+```
+main
+  |
+  |---development
+  |     |
+  |     |---feature_one
+  |     |
+  |     |---feature_two
+  |
+  |---integration
+```
