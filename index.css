@@ -2,3 +2,19 @@
   display: flex;
   width: 100%;
 }
+
+.section {
+  display: flex;
+}
+
+.fc {
+  flex-direction: column;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f1f1f1;
+  border: none;
+  cursor: pointer;
+}
