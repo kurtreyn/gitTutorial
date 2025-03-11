@@ -4,3 +4,4 @@ const exampleFunction = () => {
 
 const actionButton = document.getElementById("action-btn");
 actionButton.addEventListener("click", exampleFunction);
+// comment
