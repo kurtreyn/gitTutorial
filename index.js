@@ -1,7 +1,6 @@
 const exampleFunction = () => {
-  alert("You clicked a button");
+  alert("Congratulations! You have successfully created a new action.");
 };
 
 const actionButton = document.getElementById("action-btn");
 actionButton.addEventListener("click", exampleFunction);
-// comment
